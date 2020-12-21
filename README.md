@@ -1,2 +1,2 @@
 # Precog-Recruitment-tasks
-Tasks for recruitment of precog iiitd, 2020.
+Tasks for recruitment of precog IIIT Delhi, 2020.
