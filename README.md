@@ -31,6 +31,7 @@ code for conversion in `task2` folder.
 
 ## Task3
 url for json dump for xml files: [json_dump](https://drive.google.com/drive/folders/1rAgHbnM6LFKMXDw9Y1A9nksrxZUKQI1F?usp=sharing)
-`task3/parta/pdf_to_table_script.py` => script to convert pdf table to csv file
-`task3/partb/script.py` => script to convert xml data to json data and post it on mongo server
-`task3/partb/report.ipynb` => notebook containing the graphs and report.
+
+- `task3/parta/pdf_to_table_script.py` => script to convert pdf table to csv file
+- `task3/partb/script.py` => script to convert xml data to json data and post it on mongo server
+- `task3/partb/report.ipynb` => notebook containing the graphs and report.
